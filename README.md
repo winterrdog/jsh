@@ -12,12 +12,10 @@ limitations, including:
 * Only builtins are: `cd`, `help`, `exit`.
 
 # Running
--------
 
 Use `make` to compile, and then `./jsh` to run. 
 
 # Contributing
-------------
 
 Any pull requests that are related to bug fixes or feature implementations (and I'm sure there are still bugs in the
 code!) are welcome with open arms :).
@@ -28,6 +26,5 @@ that other people are doing the same thing, and this project is might be a
 starting point for your own exploration.
 
 # License
--------
 
 This code is under MIT license.
